@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdi Bekele</h1>
 <h3 align="center">Frontend Developer,Computer Engineer</h3>
 
-<p align="left"> <img src="[https://photos.google.com/photo/AF1QipPLv3kz8k7Gif5MyG1Iz0v2QLV34BtZWFzsNamQ" alt="lul-abdifan](https://photos.app.goo.gl/KZg9FbWk3ig8uMxp7)" /> </p>
+<p align="left"> <img src="https://photos.app.goo.gl/qktUPHNWB89PJxGY7" alt="lul-abdifan](https://photos.app.goo.gl/KZg9FbWk3ig8uMxp7)](https://photos.app.goo.gl/3Qr9x4S4ZAueed9z6)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lul-abdifan" alt="lul-abdifan" /></a> </p>
 
