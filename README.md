@@ -2,11 +2,11 @@
 <h3 align="center">Frontend Developer,Computer Engineer</h3>
 
 <p align="left"> <img 
-                 src="https://photos.app.goo.gl/2yorxYUFE5uJM9pFA"        alt="lul-abdifan" /> </p>
+                 src="https://wallpapercave.com/w/wp5870872"        alt="lul-abdifan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lul-abdifan" alt="lul-abdifan" /></a> </p>
 
-- 🔭 I’m currently working on [Blog](https://github.com/Lul-Abdifan/Blog/tree/main/blog/blog)
+- 🔭 I’m currently working on [Blogs](https://github.com/Lul-Abdifan/Blogs)
 
 - 👯 I’m currently working on [Movie-App](https://github.com/Lul-Abdifan/Movie-App/tree/favorite-feature)
 - 🌱 I’m currently learning **React and Backened**
