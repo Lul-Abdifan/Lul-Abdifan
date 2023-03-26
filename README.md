@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer,Computer Engineer</h3>
 
 <p align="left"> <img 
-                 src="https://photos.app.goo.gl/qktUPHNWB89PJxGY7"        alt="lul-abdifan" /> </p>
+                 src="https://www.linkedin.com/in/abdi-bekele-a63860254/overlay/background-image/"        alt="lul-abdifan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lul-abdifan" alt="lul-abdifan" /></a> </p>
 
