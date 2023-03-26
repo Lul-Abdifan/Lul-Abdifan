@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdi Bekele</h1>
 <h3 align="center">Frontend Developer,Computer Engineer</h3>
 
-<p align="left"> <img src="https://photos.google.com/photo/AF1QipPLv3kz8k7Gif5MyG1Iz0v2QLV34BtZWFzsNamQ" alt="lul-abdifan" /> </p>
+<p align="left"> <img src="[https://photos.google.com/photo/AF1QipPLv3kz8k7Gif5MyG1Iz0v2QLV34BtZWFzsNamQ" alt="lul-abdifan](https://photos.app.goo.gl/KZg9FbWk3ig8uMxp7)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lul-abdifan" alt="lul-abdifan" /></a> </p>
 
 - 🔭 I’m currently working on [Blog](https://github.com/Lul-Abdifan/Blog/tree/main/blog/blog)
 
-- 🌱 I’m currently learning **React and Backened**
-
 - 👯 I’m currently working on [Movie-App](https://github.com/Lul-Abdifan/Movie-App/tree/favorite-feature)
+- 🌱 I’m currently learning **React and Backened**
 
 - 💬 Ask me about **react,Linux**
 
