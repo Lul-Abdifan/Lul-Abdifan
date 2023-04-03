@@ -1,8 +1,12 @@
-<a  align= "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=5001&pause=1000&color=F78227&center=true&repeat=false&width=835&height=100&lines=Welcome%2CI+am+Abdi+Bekele" alt="Typing SVG" /></a>
+<h2 align="center">
+<a  align= "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=5001&pause=1000&color=F78227&center=true&repeat=false&width=835&height=100&lines=Welcome%2CI+am+Abdi+Bekele" alt="Typing SVG" /></a>
 <a  align= "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=7600&pause=5000&color=F78227&center=true&width=835&height=100&lines=Frontened+Developer%2CComputer+Engineer" alt="Typing SVG" /></a>
+</h2>
+
 
 <h2 align="center">
-<p align="center" style.margin-top="10px">         <a href="https://github.com/Lul-Abdifan/"><img src="https://www.pexels.com/photo/blue-and-red-light-from-computer-1933900/" alt="" /></a> </p></h2>
+<p align="center" style.margin-top="10px">       <a href="https://github.com/Lul-Abdifan/"><img src="https://images.pexels.com/photos/1933900/pexels-photo-1933900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width="500" /></a>
+ </p></h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lul-abdifan" alt="lul-abdifan" /></a> </p>
 
