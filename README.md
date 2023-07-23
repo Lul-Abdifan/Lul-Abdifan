@@ -1,3 +1,4 @@
+ <div align="center">
 <h2 align="center">
 <a  align= "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=5001&pause=1000&color=F78227&center=true&repeat=false&width=835&height=100&lines=Welcome%2CI+am+Abdi+Bekele" alt="Typing SVG" /></a>
 <a  align= "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=7600&pause=5000&color=F78227&center=true&width=835&height=100&lines=Frontened+Developer%2CComputer+Engineer" alt="Typing SVG" /></a>
@@ -10,10 +11,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lul-abdifan" alt="lul-abdifan" /></a> </p>
 
-- 🔭 I’m currently working on [Blogs](https://github.com/Lul-Abdifan/Blogs)
-
-- 👯 I’m currently working on [Movie-App](https://github.com/Lul-Abdifan/Movie-App/tree/favorite-feature)
-- 🌱 I’m currently learning **React and Backened**
+- 🔭 I’m currently working on [Blog-App](https://github.com/Lul-Abdifan/Blog-App)
+- 🌱 I’m currently learning **Backened Development**
 
 - 💬 Ask me about **react,Linux**
 
@@ -36,3 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lul-abdifan&" alt="lul-abdifan" /></p>
 
+</div>
