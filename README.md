@@ -13,7 +13,7 @@
 - 🔭 I’m delving into  [Blog-App](https://github.com/Lul-Abdifan/Competitive-programming)
 
 
-- 💬 Ask me about **react,Linux**
+- 💬 Ask me about **React,Linux**
 
 - 📫 How to reach me **tasanbannu@gmail.com**
 
