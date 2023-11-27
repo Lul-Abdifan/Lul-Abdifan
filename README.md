@@ -10,10 +10,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lul-abdifan" alt="lul-abdifan" /></a> </p>
 
-- 🔭 I’m delving into  [Blog-App](https://github.com/Lul-Abdifan/Competitive-programming)
+- 🔭 [I am doing on](https://github.com/Lul-Abdifan/Competitive-programming)
 
 
-- 💬 Ask me about **React,Linux**
+- 💬 Ask me about **JavaScript, React, Ruby, RubyonRails, Linux**
 
 - 📫 How to reach me **tasanbannu@gmail.com**
 
