@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lul-abdifan" alt="lul-abdifan" /></a> </p>
 
-- 🔭 [I am doing on](https://github.com/Lul-Abdifan/Competitive-programming)
+- 🔭 I am Working on A2SV's Project called [Bazar Project](https://github.com/A2SV)
 
 
 - 💬 Ask me about **JavaScript, React, Ruby, RubyonRails, Linux**
